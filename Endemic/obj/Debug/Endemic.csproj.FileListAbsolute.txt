@@ -1,0 +1,243 @@
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\bin\ApplicationInsights.config
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\bin\Endemic.dll.config
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\bin\Endemic.dll
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\bin\Endemic.pdb
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\bin\Antlr3.Runtime.dll
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\bin\Microsoft.AI.Web.dll
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\bin\Microsoft.AI.WindowsServer.dll
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\bin\Microsoft.ApplicationInsights.dll
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\bin\Microsoft.Web.Infrastructure.dll
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\bin\Newtonsoft.Json.dll
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\bin\System.Web.Helpers.dll
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\bin\System.Web.Mvc.dll
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\bin\System.Web.Optimization.dll
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\bin\System.Web.Razor.dll
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\bin\System.Web.WebPages.Deployment.dll
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\bin\System.Web.WebPages.dll
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\bin\System.Web.WebPages.Razor.dll
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\bin\WebGrease.dll
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\bin\System.Web.Helpers.xml
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\bin\System.Web.Mvc.xml
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\bin\System.Web.Optimization.xml
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\bin\System.Web.Razor.xml
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\bin\System.Web.WebPages.xml
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\bin\System.Web.WebPages.Deployment.xml
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\bin\System.Web.WebPages.Razor.xml
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\bin\Antlr3.Runtime.pdb
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\bin\Newtonsoft.Json.xml
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\bin\Microsoft.ApplicationInsights.xml
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\bin\Microsoft.AI.WindowsServer.xml
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\bin\Microsoft.AI.Web.xml
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\bin\es\System.Web.Helpers.resources.dll
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\bin\es\System.Web.Mvc.resources.dll
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\bin\es\System.Web.Optimization.resources.dll
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\bin\es\System.Web.Razor.resources.dll
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\bin\es\System.Web.WebPages.resources.dll
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\bin\es\System.Web.WebPages.Deployment.resources.dll
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\bin\es\System.Web.WebPages.Razor.resources.dll
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\obj\Debug\Endemic.csprojResolveAssemblyReference.cache
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\obj\Debug\Endemic.csproj.CoreCompileInputs.cache
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\obj\Debug\Endemic.dll
+c:\users\valeria\documents\visual studio 2017\Projects\Endemic\Endemic\obj\Debug\Endemic.pdb
+C:\Users\jesusmario\Desktop\Endemic\Endemic\bin\ApplicationInsights.config
+C:\Users\jesusmario\Desktop\Endemic\Endemic\bin\Endemic.dll.config
+C:\Users\jesusmario\Desktop\Endemic\Endemic\bin\Endemic.dll
+C:\Users\jesusmario\Desktop\Endemic\Endemic\bin\Endemic.pdb
+C:\Users\jesusmario\Desktop\Endemic\Endemic\bin\Antlr3.Runtime.dll
+C:\Users\jesusmario\Desktop\Endemic\Endemic\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\jesusmario\Desktop\Endemic\Endemic\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\jesusmario\Desktop\Endemic\Endemic\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\jesusmario\Desktop\Endemic\Endemic\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\jesusmario\Desktop\Endemic\Endemic\bin\Microsoft.AI.Web.dll
+C:\Users\jesusmario\Desktop\Endemic\Endemic\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\jesusmario\Desktop\Endemic\Endemic\bin\Microsoft.ApplicationInsights.dll
+C:\Users\jesusmario\Desktop\Endemic\Endemic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jesusmario\Desktop\Endemic\Endemic\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jesusmario\Desktop\Endemic\Endemic\bin\Newtonsoft.Json.dll
+C:\Users\jesusmario\Desktop\Endemic\Endemic\bin\System.Web.Helpers.dll
+C:\Users\jesusmario\Desktop\Endemic\Endemic\bin\System.Web.Mvc.dll
+C:\Users\jesusmario\Desktop\Endemic\Endemic\bin\System.Web.Optimization.dll
+C:\Users\jesusmario\Desktop\Endemic\Endemic\bin\System.Web.Razor.dll
+C:\Users\jesusmario\Desktop\Endemic\Endemic\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jesusmario\Desktop\Endemic\Endemic\bin\System.Web.WebPages.dll
+C:\Users\jesusmario\Desktop\Endemic\Endemic\bin\System.Web.WebPages.Razor.dll
+C:\Users\jesusmario\Desktop\Endemic\Endemic\bin\WebGrease.dll
+C:\Users\jesusmario\Desktop\Endemic\Endemic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jesusmario\Desktop\Endemic\Endemic\bin\System.Web.Helpers.xml
+C:\Users\jesusmario\Desktop\Endemic\Endemic\bin\System.Web.Mvc.xml
+C:\Users\jesusmario\Desktop\Endemic\Endemic\bin\System.Web.Optimization.xml
+C:\Users\jesusmario\Desktop\Endemic\Endemic\bin\System.Web.Razor.xml
+C:\Users\jesusmario\Desktop\Endemic\Endemic\bin\System.Web.WebPages.xml
+C:\Users\jesusmario\Desktop\Endemic\Endemic\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jesusmario\Desktop\Endemic\Endemic\bin\System.Web.WebPages.Razor.xml
+C:\Users\jesusmario\Desktop\Endemic\Endemic\bin\Antlr3.Runtime.pdb
+C:\Users\jesusmario\Desktop\Endemic\Endemic\bin\Newtonsoft.Json.xml
+C:\Users\jesusmario\Desktop\Endemic\Endemic\bin\Microsoft.ApplicationInsights.xml
+C:\Users\jesusmario\Desktop\Endemic\Endemic\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\jesusmario\Desktop\Endemic\Endemic\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\jesusmario\Desktop\Endemic\Endemic\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\jesusmario\Desktop\Endemic\Endemic\bin\Microsoft.AI.Web.xml
+C:\Users\jesusmario\Desktop\Endemic\Endemic\bin\es\System.Web.Helpers.resources.dll
+C:\Users\jesusmario\Desktop\Endemic\Endemic\bin\es\System.Web.Mvc.resources.dll
+C:\Users\jesusmario\Desktop\Endemic\Endemic\bin\es\System.Web.Optimization.resources.dll
+C:\Users\jesusmario\Desktop\Endemic\Endemic\bin\es\System.Web.Razor.resources.dll
+C:\Users\jesusmario\Desktop\Endemic\Endemic\bin\es\System.Web.WebPages.resources.dll
+C:\Users\jesusmario\Desktop\Endemic\Endemic\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\jesusmario\Desktop\Endemic\Endemic\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\jesusmario\Desktop\Endemic\Endemic\obj\Debug\Endemic.csproj.CoreCompileInputs.cache
+C:\Users\jesusmario\Desktop\Endemic\Endemic\obj\Debug\Endemic.dll
+C:\Users\jesusmario\Desktop\Endemic\Endemic\obj\Debug\Endemic.pdb
+C:\Users\jesusmario\Desktop\Endemic\Endemic\obj\Debug\Endemic.csprojResolveAssemblyReference.cache
+C:\Users\dzazu_000\Desktop\Endemic\Endemic\bin\ApplicationInsights.config
+C:\Users\dzazu_000\Desktop\Endemic\Endemic\bin\Endemic.dll.config
+C:\Users\dzazu_000\Desktop\Endemic\Endemic\bin\Endemic.dll
+C:\Users\dzazu_000\Desktop\Endemic\Endemic\bin\Endemic.pdb
+C:\Users\dzazu_000\Desktop\Endemic\Endemic\bin\Antlr3.Runtime.dll
+C:\Users\dzazu_000\Desktop\Endemic\Endemic\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\dzazu_000\Desktop\Endemic\Endemic\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\dzazu_000\Desktop\Endemic\Endemic\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\dzazu_000\Desktop\Endemic\Endemic\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\dzazu_000\Desktop\Endemic\Endemic\bin\Microsoft.AI.Web.dll
+C:\Users\dzazu_000\Desktop\Endemic\Endemic\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\dzazu_000\Desktop\Endemic\Endemic\bin\Microsoft.ApplicationInsights.dll
+C:\Users\dzazu_000\Desktop\Endemic\Endemic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dzazu_000\Desktop\Endemic\Endemic\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dzazu_000\Desktop\Endemic\Endemic\bin\Newtonsoft.Json.dll
+C:\Users\dzazu_000\Desktop\Endemic\Endemic\bin\System.Web.Helpers.dll
+C:\Users\dzazu_000\Desktop\Endemic\Endemic\bin\System.Web.Mvc.dll
+C:\Users\dzazu_000\Desktop\Endemic\Endemic\bin\System.Web.Optimization.dll
+C:\Users\dzazu_000\Desktop\Endemic\Endemic\bin\System.Web.Razor.dll
+C:\Users\dzazu_000\Desktop\Endemic\Endemic\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dzazu_000\Desktop\Endemic\Endemic\bin\System.Web.WebPages.dll
+C:\Users\dzazu_000\Desktop\Endemic\Endemic\bin\System.Web.WebPages.Razor.dll
+C:\Users\dzazu_000\Desktop\Endemic\Endemic\bin\WebGrease.dll
+C:\Users\dzazu_000\Desktop\Endemic\Endemic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dzazu_000\Desktop\Endemic\Endemic\bin\System.Web.Helpers.xml
+C:\Users\dzazu_000\Desktop\Endemic\Endemic\bin\System.Web.Mvc.xml
+C:\Users\dzazu_000\Desktop\Endemic\Endemic\bin\System.Web.Optimization.xml
+C:\Users\dzazu_000\Desktop\Endemic\Endemic\bin\System.Web.Razor.xml
+C:\Users\dzazu_000\Desktop\Endemic\Endemic\bin\System.Web.WebPages.xml
+C:\Users\dzazu_000\Desktop\Endemic\Endemic\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dzazu_000\Desktop\Endemic\Endemic\bin\System.Web.WebPages.Razor.xml
+C:\Users\dzazu_000\Desktop\Endemic\Endemic\bin\Antlr3.Runtime.pdb
+C:\Users\dzazu_000\Desktop\Endemic\Endemic\bin\Newtonsoft.Json.xml
+C:\Users\dzazu_000\Desktop\Endemic\Endemic\bin\Microsoft.ApplicationInsights.xml
+C:\Users\dzazu_000\Desktop\Endemic\Endemic\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\dzazu_000\Desktop\Endemic\Endemic\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\dzazu_000\Desktop\Endemic\Endemic\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\dzazu_000\Desktop\Endemic\Endemic\bin\Microsoft.AI.Web.xml
+C:\Users\dzazu_000\Desktop\Endemic\Endemic\bin\es\System.Web.Helpers.resources.dll
+C:\Users\dzazu_000\Desktop\Endemic\Endemic\bin\es\System.Web.Mvc.resources.dll
+C:\Users\dzazu_000\Desktop\Endemic\Endemic\bin\es\System.Web.Optimization.resources.dll
+C:\Users\dzazu_000\Desktop\Endemic\Endemic\bin\es\System.Web.Razor.resources.dll
+C:\Users\dzazu_000\Desktop\Endemic\Endemic\bin\es\System.Web.WebPages.resources.dll
+C:\Users\dzazu_000\Desktop\Endemic\Endemic\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\dzazu_000\Desktop\Endemic\Endemic\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\dzazu_000\Desktop\Endemic\Endemic\obj\Debug\Endemic.dll
+C:\Users\dzazu_000\Desktop\Endemic\Endemic\obj\Debug\Endemic.pdb
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\bin\ApplicationInsights.config
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\bin\Endemic.dll.config
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\bin\Endemic.dll
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\bin\Endemic.pdb
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\bin\Antlr3.Runtime.dll
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\bin\Microsoft.AI.Web.dll
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\bin\Microsoft.ApplicationInsights.dll
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\bin\Newtonsoft.Json.dll
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\bin\System.Web.Helpers.dll
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\bin\System.Web.Mvc.dll
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\bin\System.Web.Optimization.dll
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\bin\System.Web.Razor.dll
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\bin\System.Web.WebPages.Deployment.dll
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\bin\System.Web.WebPages.dll
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\bin\System.Web.WebPages.Razor.dll
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\bin\WebGrease.dll
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\bin\System.Web.Helpers.xml
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\bin\System.Web.Mvc.xml
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\bin\System.Web.Optimization.xml
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\bin\System.Web.Razor.xml
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\bin\System.Web.WebPages.xml
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\bin\System.Web.WebPages.Deployment.xml
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\bin\System.Web.WebPages.Razor.xml
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\bin\Antlr3.Runtime.pdb
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\bin\Newtonsoft.Json.xml
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\bin\Microsoft.ApplicationInsights.xml
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\bin\Microsoft.AI.Web.xml
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\bin\es\System.Web.Helpers.resources.dll
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\bin\es\System.Web.Mvc.resources.dll
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\bin\es\System.Web.Optimization.resources.dll
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\bin\es\System.Web.Razor.resources.dll
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\bin\es\System.Web.WebPages.resources.dll
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\obj\Debug\Endemic.csprojResolveAssemblyReference.cache
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\obj\Debug\Endemic.csproj.CoreCompileInputs.cache
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\obj\Debug\Endemic.dll
+C:\Users\jesusmario\Desktop\Endemic al fin Dios gracias\Endemic\Endemic\obj\Debug\Endemic.pdb
+C:\Users\Valeria\Desktop\Endemic\Endemic\bin\ApplicationInsights.config
+C:\Users\Valeria\Desktop\Endemic\Endemic\bin\Endemic.dll.config
+C:\Users\Valeria\Desktop\Endemic\Endemic\bin\Endemic.dll
+C:\Users\Valeria\Desktop\Endemic\Endemic\bin\Endemic.pdb
+C:\Users\Valeria\Desktop\Endemic\Endemic\bin\Antlr3.Runtime.dll
+C:\Users\Valeria\Desktop\Endemic\Endemic\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Valeria\Desktop\Endemic\Endemic\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Valeria\Desktop\Endemic\Endemic\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Valeria\Desktop\Endemic\Endemic\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Valeria\Desktop\Endemic\Endemic\bin\Microsoft.AI.Web.dll
+C:\Users\Valeria\Desktop\Endemic\Endemic\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Valeria\Desktop\Endemic\Endemic\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Valeria\Desktop\Endemic\Endemic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Valeria\Desktop\Endemic\Endemic\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Valeria\Desktop\Endemic\Endemic\bin\Newtonsoft.Json.dll
+C:\Users\Valeria\Desktop\Endemic\Endemic\bin\System.Web.Helpers.dll
+C:\Users\Valeria\Desktop\Endemic\Endemic\bin\System.Web.Mvc.dll
+C:\Users\Valeria\Desktop\Endemic\Endemic\bin\System.Web.Optimization.dll
+C:\Users\Valeria\Desktop\Endemic\Endemic\bin\System.Web.Razor.dll
+C:\Users\Valeria\Desktop\Endemic\Endemic\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Valeria\Desktop\Endemic\Endemic\bin\System.Web.WebPages.dll
+C:\Users\Valeria\Desktop\Endemic\Endemic\bin\System.Web.WebPages.Razor.dll
+C:\Users\Valeria\Desktop\Endemic\Endemic\bin\WebGrease.dll
+C:\Users\Valeria\Desktop\Endemic\Endemic\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Valeria\Desktop\Endemic\Endemic\bin\System.Web.Helpers.xml
+C:\Users\Valeria\Desktop\Endemic\Endemic\bin\System.Web.Mvc.xml
+C:\Users\Valeria\Desktop\Endemic\Endemic\bin\System.Web.Optimization.xml
+C:\Users\Valeria\Desktop\Endemic\Endemic\bin\System.Web.Razor.xml
+C:\Users\Valeria\Desktop\Endemic\Endemic\bin\System.Web.WebPages.xml
+C:\Users\Valeria\Desktop\Endemic\Endemic\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Valeria\Desktop\Endemic\Endemic\bin\System.Web.WebPages.Razor.xml
+C:\Users\Valeria\Desktop\Endemic\Endemic\bin\Antlr3.Runtime.pdb
+C:\Users\Valeria\Desktop\Endemic\Endemic\bin\Newtonsoft.Json.xml
+C:\Users\Valeria\Desktop\Endemic\Endemic\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Valeria\Desktop\Endemic\Endemic\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Valeria\Desktop\Endemic\Endemic\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Valeria\Desktop\Endemic\Endemic\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Valeria\Desktop\Endemic\Endemic\bin\Microsoft.AI.Web.xml
+C:\Users\Valeria\Desktop\Endemic\Endemic\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Valeria\Desktop\Endemic\Endemic\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Valeria\Desktop\Endemic\Endemic\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Valeria\Desktop\Endemic\Endemic\bin\es\System.Web.Razor.resources.dll
+C:\Users\Valeria\Desktop\Endemic\Endemic\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Valeria\Desktop\Endemic\Endemic\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Valeria\Desktop\Endemic\Endemic\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Valeria\Desktop\Endemic\Endemic\obj\Debug\Endemic.csprojResolveAssemblyReference.cache
+C:\Users\Valeria\Desktop\Endemic\Endemic\obj\Debug\Endemic.csproj.CoreCompileInputs.cache
+C:\Users\Valeria\Desktop\Endemic\Endemic\obj\Debug\Endemic.dll
+C:\Users\Valeria\Desktop\Endemic\Endemic\obj\Debug\Endemic.pdb

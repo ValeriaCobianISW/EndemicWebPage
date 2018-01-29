@@ -1,0 +1,87 @@
+﻿<link href="~/Content/CSS/audio.css" rel="stylesheet" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<link href="~/Content/CSS/bootstrap.css" rel="stylesheet" />
+<link href="~/Content/CSS/easy-responsive-tabs.css" rel="stylesheet" />
+<link href="~/Content/CSS/font-awesome.css" rel="stylesheet" />
+<link href="~/Content/CSS/icon-font.css" rel="stylesheet" />
+<link href="~/Content/CSS/jplayer.blue.monday.min.css" rel="stylesheet" />
+<link href="~/Content/CSS/popuo-box.css" rel="stylesheet" />
+<link href="~/Content/CSS/style.css" rel="stylesheet" />
+<script src="~/Scripts/jquery-2.1.4.js"></script>
+
+<body class="sticky-header left-side-collapsed" >
+    <section>
+        <div class="left-side sticky-left-side">
+            <div class="logo">
+                <h1><a href="index.html">Mosai<span>c</span></a></h1>
+            </div>
+            <div class="logo-icon text-center">
+                <a href="@Url.Action("Index","Home")">M </a>
+            </div>
+
+            <!--Empiezo de sidebar opciones-->
+            <div class="left-side-inner">
+                <ul class="nav nav-pills nav-stacked custom-nav">
+                    <li class="active"><a href="@Url.Action("Index","Home")"><i class="lnr lnr-home"></i><span>Inicio</span></a></li>
+                   
+                    
+                </ul>
+            </div>
+        </div>
+
+  
+        <div class="main-content">
+   
+                <div class="menu-right">
+                   
+                    <!--notification menu start -->
+                    <div class="menu-right">
+                   
+                            <!-- search-scripts -->
+                            <script src="~/Scripts/classie.js"></script>
+
+                      
+                                <script type="text/javascript">
+                                    $(function () {
+                                        $('#audio-player').mediaelementplayer({
+                                            alwaysShowControls: true,
+                                            features: ['playpause', 'progress', 'volume'],
+                                            audioVolume: 'horizontal',
+                                            iPadUseNativeControls: true,
+                                            iPhoneUseNativeControls: true,
+                                            AndroidUseNativeControls: true
+                                        });
+                                    });
+                                </script>
+                                <!--audio-->
+                                <link rel="stylesheet" type="text/css" media="all" href="~/Content/CSS/audio.css">
+                                <script type="text/javascript" src="~/Scripts/mediaelement-and-player.min.js"></script>
+                                <!---->
+                                <!--//-->
+                                <ul class="next-top">
+                                    <li><a class="ar" href="#"> <img src="~/Content/Imagenes/arrow.png" alt="" /></a></li>
+                                    <li><a class="ar2" href="#"><img src="~/Content/Imagenes/arrow2.png" alt="" /></a></li>
+
+                                </ul>
+                            </div>
+
+
+
+                        </div>
+                        <!-------->
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+                <!--notification menu end -->
+                <!-- //header-ends -->
+            </div>
+            @RenderBody();
+</section>
+    
+    <script src="~/Scripts/scripts.js"></script>
+    <script src="~/Scripts/AJAX.js"></script>
+    <!-- Bootstrap Core JavaScript -->
+    <script src="~/Scripts/bootstrap.js"></script>
+</body>
+
+

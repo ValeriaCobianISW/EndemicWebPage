@@ -1,0 +1,101 @@
+﻿@using Endemic.Entidades;
+@model Endemic.Entidades.Album
+@{ 
+    Puente p = new Puente();
+    List<Album> albumes = new List<Album>();
+    albumes = p.obtenerAlbums();
+}
+<div id="page-wrapper" style="margin-top: -977px;   margin-left: 94px;">
+    <div class="inner-content single">
+        <!--/music-right-->
+        <div class="tittle-head">
+
+            <div class="clearfix"> </div>
+
+        </div>
+        
+
+        <div class="single_left">
+            <!--/video-main-->
+            
+            <br>
+            <div id="infAlbum">
+                <img id="imagenAlbum" src=@Model.imagen width="70%" ; alt="">
+                <h3 class="tittle">@Model.Nombre<span id=@Model.Artista.Nombre font-size:15px;><br>@Model.Artista.Nombre</span><br><span id="anioAlbum" font-size: 18px;">@Model.Anio</span></h3>
+            </div>
+                
+           
+
+            <!-- script for play-list -->
+            <link href="css/jplayer.blue.monday.min.css" rel="stylesheet" type="text/css">
+            <script type="text/javascript" src="~/Scripts/jquery.jplayer.min.js"></script>
+            <script type="text/javascript" src="js/jplayer.playlist.min.js"></script>
+
+            <!-- //script for play-list -->
+            <!--//video-main-->
+            <!-- /agileinfo -->
+        </div>
+        <select id="comboAlbumes" style="position:relative; margin-left:992px; bottom:450px; left:-99px" onchange="mostrarAlbum();">
+            @foreach (Album a in albumes)
+            {
+                <option id=@a.id value=@a.Nombre> @a.Nombre</option>
+            }
+        </select>
+
+        <div class="response">
+            <div class="row">
+                <div class="col-lg-12">
+                    <table class="table" id="canciones">
+                        <thead>
+                        </thead>
+                        <tbody>
+                            @foreach (Cancion c in Model.Canciones)
+                            {
+                                <tr>
+                                    <th>@c.Id</th>
+                                    <th>@c.Nombre</th>
+                                    <th>@c.Duracion </th>
+                                    <th><audio controls="controls">  <source src=@c.Direccion type=audio/mpeg /> </audio> </th>
+                                </tr>
+                            }
+                        </tbody>
+                    </table>
+
+                    <table class="table" id="comentario">
+                        <thead>
+                            <tr>
+                                <th> </th>
+                                <th>  </th>
+                                
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                   
+                </div>
+                <!-- /.col-lg-12 -->
+            </div>
+        </div>
+        <!-- /agileits -->
+        <div class="clearfix"> </div>
+        <!--//music-right-->
+
+    </div>
+    <!-- /w3l-agileits-->
+    <!--body wrapper start-->
+
+
+</div>
+ <div col-lg-12 >
+     <h3>Comentarios</h3>
+ </div>
+				
+<div class="clearfix"></div>
+<!--body wrapper end-->
+<!-- /w3layouts-agile -->
+					
+<!--body wrapper end-->
+<!-- /w3layouts-agile -->
+<!--footer section start-->
+<!-- main content end-->
+
